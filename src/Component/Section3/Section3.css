@@ -1,0 +1,26 @@
+.section-watch {
+  width: 100vw; /*width of entire screen*/
+  height: 550px; /*height of entire screen*/
+  /*background: url("https://www.apple.com/uk/home/images/heroes/apple-watch-ultra/hero_apple_watch_ultra__dtz0f3e8oscy_large.jpg")
+  */
+  background: url("https://www.apple.com/v/home/as/images/heroes/apple-watch-ultra/hero_apple_watch_ultra__dtz0f3e8oscy_large_2x.jpg")
+    no-repeat center center; /* add "fixed" if only 1 pic*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+}
+
+.five-head {
+  margin: 0;
+  padding-top: 44px;
+  padding-bottom: 0;
+  background-size: 190px 72px;
+  height: 72px;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(https://www.apple.com/v/home/as/images/logos/apple-watch-ultra/hero_logo_apple_watch_ultra__etygmmkwgfma_large.png);
+}

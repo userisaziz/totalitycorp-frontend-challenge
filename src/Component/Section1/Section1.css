@@ -1,0 +1,77 @@
+.section-one {
+  width: 100vw; /*width of entire screen*/
+  height: 610px; /*height of entire screen*/
+  background: url("https://www.apple.com/v/home/as/images/heroes/iphone-14-pro/hero_iphone14pro__e5xbgo5ffhg2_medium.jpg")
+    no-repeat center center; /* add "fixed" if only 1 pic*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  padding-bottom: 47px;
+}
+
+.header {
+  font-size: 56px;
+  line-height: 1.07143;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin: 0;
+  text-align: center;
+  padding-top: 44px;
+}
+
+.header-black {
+  color: black;
+}
+
+.header-white {
+  color: white;
+}
+
+.sub {
+  font-size: 28px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 6px;
+  margin: 0;
+  text-align: center;
+  margin-top: 5px;
+}
+
+.sub-white {
+  color: white;
+}
+
+sub-black {
+  color: black;
+}
+
+.links {
+  margin-top: 14.06px;
+}
+
+.links-one {
+  font-size: 21px;
+  line-height: 1.381;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 0.65em;
+  color: #2997ff;
+  text-decoration: none;
+  font-size: 19px;
+  line-height: 1.21053;
+  text-align: center;
+  margin-top: 14.06px;
+}
+
+.links-padding {
+  margin-left: 32px;
+}

@@ -1,0 +1,183 @@
+.section-white-three {
+  width: 100vw; /*width of entire screen*/
+  height: 610px; /*height of entire screen*/
+  background: url("https://www.apple.com/v/home/as/images/promos/back-to-school-2022/promo_bts_last_chance__dqftd8sek46e_large.jpg")
+    no-repeat center center; /* add "fixed" if only 1 pic*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  border: solid;
+  border-top-width: 5px;
+  border-bottom-width: 10px;
+  border-left-width: 10px;
+  border-right-width: 5px;
+  border-color: white;
+}
+
+.ten-head {
+  font-size: 14px;
+  line-height: 1.42859;
+  font-weight: 600;
+  /* letter-spacing: -.016em; */
+  font-family: "SF Pro Text", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: #ca2166;
+  margin-top: 15px;
+  margin-bottom: 3px;
+}
+
+.ten-sub {
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  font-size: 36px;
+  max-width: 385px;
+  /* margin-top: 0px; */
+  margin-top: -2px;
+  text-align: center;
+  font-weight: bold;
+  font-style: italic;
+  line-height: 1.125;
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  /* margin: 0;
+text-align: center; */
+  margin-top: 5px;
+  padding-left: 0px;
+  margin-bottom: 5px;
+}
+
+.ten-sub-two {
+  font-size: 19px;
+  line-height: 1.21053;
+  font-weight: 400;
+  letter-spacing: 0.012em;
+  margin: px;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin: 3px;
+}
+
+.ten-links {
+  margin-top: 14.06px;
+}
+
+.ten-links-one {
+  font-size: 17px;
+  line-height: 1.381;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 0.65em;
+  color: #2997ff;
+  text-decoration: none;
+  font-size: 19px;
+  line-height: 1.21053;
+  text-align: center;
+  margin-top: 14.06px;
+}
+
+.ten-padding {
+  margin-left: 32px;
+}
+
+/* Middle */
+.flex {
+  display: flex;
+}
+
+.section-white-four {
+  width: 100vw; /*width of entire screen*/
+  height: 610px; /*height of entire screen*/
+  background: url("https://i.postimg.cc/kX8N5zp1/geran-de-klerk-w-Yy3rvvgj-AU-unsplash.jpg")
+    no-repeat center center; /* add "fixed" if only 1 pic*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  border: solid;
+  border-top-width: 5px;
+  border-bottom-width: 10px;
+  border-left-width: 5px;
+  border-right-width: 10px;
+  border-color: white;
+}
+
+.eleven-head {
+  margin-top: 42p;
+  height: 0px;
+  background-size: 68px 27px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(https://www.apple.com/v/home/as/images/logos/tv-plus/logo__dcojfwkzna2q_medium.png);
+  padding-top: 54px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-bottom: 25;
+  margin-top: 25px;
+  font-size: 19px;
+
+  /* font-size: 40px;
+line-height: 1.07143;
+font-weight: 600;
+letter-spacing: -.005em;
+font-family: "SF Pro Display","SF Pro Icons","Helvetica Neue","Helvetica","Arial",sans-serif;
+color: white;
+margin: 0;
+text-align: center;
+  padding-top: 24px;  */
+}
+
+.eleven-sub {
+  font-size: 20px;
+  line-height: 1.2381;
+  font-weight: 400;
+  letter-spacing: 0.016em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  width: 88%;
+  max-width: 430px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.eleven-sub-two {
+  height: 140px;
+  background-size: 300px 140px;
+  margin-top: 0px;
+  font-size: 20px;
+  padding-top: 130px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  text-align: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("https://www.apple.com/uk/home/images/logos/black-history-month/promo_logo_black_history_month__fl8fcresb0eq_large.png");
+}
+
+.eleven-links {
+  margin-top: 10px;
+}
+
+.eleven-links-one {
+  font-size: 15px;
+  padding-top: 0;
+  line-height: 1.381;
+  letter-spacing: 0.011em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  color: black;
+  text-decoration: none;
+  font-size: 19px;
+  line-height: 1.21053;
+  text-align: center;
+  margin-top: 0px;
+}

@@ -1,0 +1,92 @@
+.section-white-one {
+  width: 100vw; /*width of entire screen*/
+  height: 610px; /*height of entire screen*/
+  background: url("https://www.apple.com/uk/home/images/promos/apple-watch-se/promo_apple_watch_se__f9702l6odgi2_medium.jpg")
+    no-repeat center center; /* add "fixed" if only 1 pic*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  border: solid;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 10px;
+  border-right-width: 5px;
+  border-color: white;
+}
+
+.eight-head {
+  height: 0px;
+  background-size: 108px 42px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(https://www.apple.com/v/home/as/images/logos/apple-watch-se/promo_logo_apple_watch_se__b85vr9ri02gi_medium.png);
+  padding-top: 54px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-bottom: 25;
+}
+
+.eight-sub {
+  font-size: 21px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 6px;
+  color: black;
+  margin: 0;
+  text-align: center;
+  margin-top: 5px;
+}
+
+/* Middle */
+.flex {
+  display: flex;
+}
+
+.section-white-two {
+  width: 100vw; /*width of entire screen*/
+  height: 610px; /*height of entire screen*/
+  background: url("https://i.postimg.cc/vTgBFnSN/Green-Organic-Warm-Food-and-Restaurant-Bio-Link-Website-2.png")
+    no-repeat center center; /* add "fixed" if only 1 pic*/
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  padding-top: 0px;
+  text-align: center;
+  border: solid;
+  border-top-width: 5px;
+  border-bottom-width: 5px;
+  border-left-width: 5px;
+  border-right-width: 10px;
+  border-color: white;
+}
+
+.nine-head {
+  height: 0px;
+  background-size: 149px 26px;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(https://www.apple.com/v/home/as/images/logos/apple-fitness-plus-iphone/promo_logo_fitness_plus_iphone__dpayetemakq6_large.png);
+  padding-top: 34px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+  margin-bottom: 25;
+}
+
+.nine-sub {
+  font-size: 19px;
+  line-height: 1.10722;
+  font-weight: 400;
+  letter-spacing: 0.004em;
+  font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica",
+    "Arial", sans-serif;
+  margin-top: 6px;
+  color: black;
+  text-align: center;
+}
